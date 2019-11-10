@@ -171,6 +171,7 @@ void CMFCChatClientDlg::OnBnClickedDisconnectBtn()
 	TRACE("##OnBnClickedDisconnectBtn");
 	TRACE("##O22nBnClickedDisconnectBtn");
 	TRACE("##33O22nB55nClickedDisconnectBtn");
+	TRACE("##33O22n33B55nClickedDisconnectBtn");
 
 }
 
